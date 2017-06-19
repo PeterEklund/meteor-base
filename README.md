@@ -1,5 +1,5 @@
-# meteor-build-deploy
-Automation docker container to build and deploy with Meteor Up (mup), and merge with git.
+# meteor-base
+Automation for building and deploying with mup ([meteor-up](https://github.com/zodern/meteor-up)), and merge with git.
 
 ## Packages
 - node
