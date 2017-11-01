@@ -1,4 +1,4 @@
-FROM studiointeract/node-base:8.8.1
+FROM studiointeract/node-base:latest
 
 MAINTAINER Tim Brandin "tim.brandin@studiointeract.se"
 
